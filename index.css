@@ -69,6 +69,10 @@ a{
     color: #fff;
 }
 
+.nav-link:hover{
+    font-size: 2rem;
+}
+
 @media (max-width: 768px){
 
     #title{
