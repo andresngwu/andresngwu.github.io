@@ -39,7 +39,12 @@ const skills = [
     {
         title: "NodeJs",
         image: "nodejs.png"  
-    }
+    },
+    {
+        title: "SQL",
+        image: "sql.png"  
+    },
+
 ];
 
 const projects = [
